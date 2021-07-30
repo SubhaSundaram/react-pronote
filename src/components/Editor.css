@@ -1,0 +1,31 @@
+/* .container {
+  position: relative;
+  background-color: rgba(52, 52, 248, 0.87);
+  color: white;
+} */
+.input {
+  position: relative;
+  left: 5%;
+}
+.input-text {
+  left: 5%;
+  background-color: rgba(52, 52, 248, 0.87);
+  position: absolute;
+  color: white;
+  width: 500px;
+  height: 300px;
+  border: 2px solid black;
+}
+.output {
+  position: relative;
+  right: 5%;
+}
+.output-text {
+  color: white;
+  position: absolute;
+  right: 5%;
+  background-color: grey;
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+}
